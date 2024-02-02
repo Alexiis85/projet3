@@ -1,0 +1,54 @@
+* {
+    padding: 0px !important;
+    
+}
+
+
+.element {
+    margin-left: 100px !important;
+}
+
+.test {
+    padding: 80px !important;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.test2 {
+    padding: 80px !important;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.test3 {
+    margin: 10px;
+}
+
+
+.img8 {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.list-group {
+    font-size: 40px;
+    margin-left: 40px;
+}
+
+.iframe {
+    margin-left: 60px;
+}
+
+.social-icon {
+    background-color: yellow;
+    color: black; 
+}
+
+.test5 {
+    align-items: center !important;
+}
+
+.contact-section {
+    margin-bottom: -50px !important; /* Réduit la marge inférieure de la section "Contactez-nous" */
+}
+
